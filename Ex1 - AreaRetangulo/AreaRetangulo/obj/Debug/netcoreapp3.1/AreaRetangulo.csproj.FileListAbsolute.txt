@@ -1,0 +1,26 @@
+C:\Users\altas\source\repos\AreaRetangulo\AreaRetangulo\bin\Debug\netcoreapp3.1\AreaRetangulo.exe
+C:\Users\altas\source\repos\AreaRetangulo\AreaRetangulo\bin\Debug\netcoreapp3.1\AreaRetangulo.deps.json
+C:\Users\altas\source\repos\AreaRetangulo\AreaRetangulo\bin\Debug\netcoreapp3.1\AreaRetangulo.runtimeconfig.json
+C:\Users\altas\source\repos\AreaRetangulo\AreaRetangulo\bin\Debug\netcoreapp3.1\AreaRetangulo.runtimeconfig.dev.json
+C:\Users\altas\source\repos\AreaRetangulo\AreaRetangulo\bin\Debug\netcoreapp3.1\AreaRetangulo.dll
+C:\Users\altas\source\repos\AreaRetangulo\AreaRetangulo\bin\Debug\netcoreapp3.1\AreaRetangulo.pdb
+C:\Users\altas\source\repos\AreaRetangulo\AreaRetangulo\obj\Debug\netcoreapp3.1\AreaRetangulo.csprojAssemblyReference.cache
+C:\Users\altas\source\repos\AreaRetangulo\AreaRetangulo\obj\Debug\netcoreapp3.1\AreaRetangulo.AssemblyInfoInputs.cache
+C:\Users\altas\source\repos\AreaRetangulo\AreaRetangulo\obj\Debug\netcoreapp3.1\AreaRetangulo.AssemblyInfo.cs
+C:\Users\altas\source\repos\AreaRetangulo\AreaRetangulo\obj\Debug\netcoreapp3.1\AreaRetangulo.csproj.CoreCompileInputs.cache
+C:\Users\altas\source\repos\AreaRetangulo\AreaRetangulo\obj\Debug\netcoreapp3.1\AreaRetangulo.dll
+C:\Users\altas\source\repos\AreaRetangulo\AreaRetangulo\obj\Debug\netcoreapp3.1\AreaRetangulo.pdb
+C:\Users\altas\source\repos\AreaRetangulo\AreaRetangulo\obj\Debug\netcoreapp3.1\AreaRetangulo.genruntimeconfig.cache
+E:\Projetos PRCA2\Ex1 - AreaRetangulo\AreaRetangulo\bin\Debug\netcoreapp3.1\AreaRetangulo.exe
+E:\Projetos PRCA2\Ex1 - AreaRetangulo\AreaRetangulo\bin\Debug\netcoreapp3.1\AreaRetangulo.deps.json
+E:\Projetos PRCA2\Ex1 - AreaRetangulo\AreaRetangulo\bin\Debug\netcoreapp3.1\AreaRetangulo.runtimeconfig.json
+E:\Projetos PRCA2\Ex1 - AreaRetangulo\AreaRetangulo\bin\Debug\netcoreapp3.1\AreaRetangulo.runtimeconfig.dev.json
+E:\Projetos PRCA2\Ex1 - AreaRetangulo\AreaRetangulo\bin\Debug\netcoreapp3.1\AreaRetangulo.dll
+E:\Projetos PRCA2\Ex1 - AreaRetangulo\AreaRetangulo\bin\Debug\netcoreapp3.1\AreaRetangulo.pdb
+E:\Projetos PRCA2\Ex1 - AreaRetangulo\AreaRetangulo\obj\Debug\netcoreapp3.1\AreaRetangulo.csprojAssemblyReference.cache
+E:\Projetos PRCA2\Ex1 - AreaRetangulo\AreaRetangulo\obj\Debug\netcoreapp3.1\AreaRetangulo.AssemblyInfoInputs.cache
+E:\Projetos PRCA2\Ex1 - AreaRetangulo\AreaRetangulo\obj\Debug\netcoreapp3.1\AreaRetangulo.AssemblyInfo.cs
+E:\Projetos PRCA2\Ex1 - AreaRetangulo\AreaRetangulo\obj\Debug\netcoreapp3.1\AreaRetangulo.csproj.CoreCompileInputs.cache
+E:\Projetos PRCA2\Ex1 - AreaRetangulo\AreaRetangulo\obj\Debug\netcoreapp3.1\AreaRetangulo.dll
+E:\Projetos PRCA2\Ex1 - AreaRetangulo\AreaRetangulo\obj\Debug\netcoreapp3.1\AreaRetangulo.pdb
+E:\Projetos PRCA2\Ex1 - AreaRetangulo\AreaRetangulo\obj\Debug\netcoreapp3.1\AreaRetangulo.genruntimeconfig.cache
